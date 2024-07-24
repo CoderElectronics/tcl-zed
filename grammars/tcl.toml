@@ -1,0 +1,3 @@
+[grammars.tcl]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
+commit = "56ad1fa6a34ba800e5495d1025a9b0fda338d5b8"

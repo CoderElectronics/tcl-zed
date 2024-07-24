@@ -1,0 +1,7 @@
+id = "tcl"
+name = "Tcl"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ari Stehney <aristehney@gmail.com>"]
+description = "Tcl language support for Zed"
+repository = "https://github.com/CoderElectronics/tcl-zed"
