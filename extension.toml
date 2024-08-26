@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Ari Stehney <aristehney@gmail.com>"]
 description = "Tcl language support for Zed"
 repository = "https://github.com/CoderElectronics/tcl-zed"
+
+[grammars.tcl]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
+rev = "56ad1fa6a34ba800e5495d1025a9b0fda338d5b8"
